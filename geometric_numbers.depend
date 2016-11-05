@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478306197 source:/home/nate/code::blocks workspace/geometric_numbers/main.cpp
+	<iostream>
+	<chrono>
+	<cmath>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<GL/glew.h>
+
